@@ -34,3 +34,6 @@ A simple task manager application where users can add, delete, and mark tasks as
 
 - Data will be stored in localStorage and persist even after page reloads.
 - No user authentication or authorization is required for this simple task manager.
+
+
+![Task Manager Screenshot](assets/screenshot.png)

@@ -36,4 +36,4 @@ A simple task manager application where users can add, delete, and mark tasks as
 - No user authentication or authorization is required for this simple task manager.
 
 
-![Task Manager Screenshot](assets/screenshot.png)
+<img width="636" alt="Screenshot" src="https://github.com/user-attachments/assets/b04a374d-3722-4583-ace8-f486af8c83e0">
